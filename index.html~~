@@ -1,0 +1,41 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+
+  <title> Hagley West </title>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!--Bootstrap,local css,jquery,javascript-->
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" href="main.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+</head>
+<body>
+<header class ="container">
+	<div class ="row">
+		<h1 class="col-sm-4">
+			Home
+		</h1>
+		<nav class ="col-sm-8">
+			<p> <b>CV</b> </p>
+			<p> <b>Projects</b> </p>
+			<p> <b>Blog</b> </p>
+		</nav>
+	</div>
+</header>
+
+<h2>
+	<p>
+	short paragraph describing me, what im about, what I want, future plans?
+	</p>
+	
+</h2>
+
+<!--Some kind of quote of the day generator, Compile a list-->
+<!--Set h3 to centred
+</body>
+</html>
